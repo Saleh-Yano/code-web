@@ -10,7 +10,7 @@ return (
             <section className='aboutHome'>
         <div className='container flexSB'>
         <div className='left row'>
-            <img src='./images/about.webp' alt='' />
+            <img src='https://wpjobster.com/wp-content/uploads/2022/06/about-1.jpg' alt='' />
         </div>
         <div className='right row'>
             <Title subtitle='LEARN ANYTHING' title='Benefits About Online Learning Expertise' />
