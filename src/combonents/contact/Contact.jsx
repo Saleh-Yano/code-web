@@ -20,7 +20,7 @@ return (
             <div className='items grid2'>
             <div className='box'>
                 <h4>ADDRESS:</h4>
-                <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+                <p>30n Gould st sheridan wayoming</p>
             </div>
             <div className='box'>
                 <h4>EMAIL:</h4>
@@ -28,7 +28,11 @@ return (
             </div>
             <div className='box'>
                 <h4>PHONE:</h4>
-                <p> + 1235 2355 98</p>
+                <p> <a class="text-decoration-none" href="https://api.whatsapp.com/send/?phone=201554980600&text=wellcome+to+EraaZone&type=phone_number&app_absent=0">
+                    <i class="fa-brands fa-whatsapp fa-beat-fade" style={{color: "#2fc92c",}}></i>
+                    +201554980600
+                    </a></p>
+                    <p>020 3897 2233</p>
             </div>
             </div>
 

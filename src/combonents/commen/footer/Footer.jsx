@@ -25,7 +25,7 @@ return (
             <h1 className='dark'>FRIST CODE</h1>
             </Link>
             <span>ONLINE EDUCATION & LEARNING</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p>In order to make a real contribution to the improvement and development of society.</p>
 
             <i className='fab fa-facebook-f icon'></i>
             <i className='fab fa-twitter icon'></i>
@@ -76,11 +76,19 @@ return (
             <ul>
             <li>
                 <i className='fa fa-map'></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                30n Gould st sheridan wayoming
             </li>
             <li>
                 <i className='fa fa-phone-alt'></i>
-                +2 392 3929 210
+                020 3897 2233
+            </li>
+            <li>
+            <a class="text-decoration-none" href="https://api.whatsapp.com/send/?phone=201554980600&text=wellcome+to+EraaZone&type=phone_number&app_absent=0">
+                    <i class="fa-brands fa-whatsapp fa-beat-fade" style={{color: "#2fc92c",}}></i>
+                    </a>
+                <a  target="_blank" href="https://api.whatsapp.com/send/?phone=201554980600&text=wellcome+to+EraaZone&type=phone_number&app_absent=0" rel="noreferrer">
+                    <p>+201554980600</p>
+                    </a>
             </li>
             <li>
                 <i className='fa fa-paper-plane'></i>

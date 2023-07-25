@@ -53,8 +53,8 @@ export const coursesCard = [
         totalTime: "50 lectures (190 hrs)",
       },
     ],
-    priceAll: "$100 All Course",
-    pricePer: "$15 per month",
+    priceAll: "$500 All Course",
+    pricePer: "E£4000 All Course",
   },
   {
     id: 2,
@@ -67,8 +67,8 @@ export const coursesCard = [
         totalTime: "30 lectures (125 hrs)",
       },
     ],
-    priceAll: "$200 All Course",
-    pricePer: "$25 per month",
+    priceAll: "$400 All Course",
+    pricePer: "E£3000 All Course",
   },
   {
     id: 3,
@@ -81,8 +81,8 @@ export const coursesCard = [
         totalTime: "50 lectures (50 hrs)",
       },
     ],
-    priceAll: "$50 All Course",
-    pricePer: "$5 per month",
+    priceAll: "$750 All Course",
+    pricePer: "E£6000 All Course",
   },
   {
     id: 4,
@@ -95,8 +95,8 @@ export const coursesCard = [
         totalTime: "20 lectures (20 hrs)",
       },
     ],
-    priceAll: "$30 All Course",
-    pricePer: "$3 per month",
+    priceAll: "$250 All Course",
+    pricePer: "E£2000 All Course",
   },
   {
     id: 5,
@@ -109,8 +109,8 @@ export const coursesCard = [
         totalTime: "100 lectures (150 hrs)",
       },
     ],
-    priceAll: "$300 All Course",
-    pricePer: "$30 per month",
+    priceAll: "$570 All Course",
+    pricePer: "E£4500 All Course",
   },
   {
     id: 6,
@@ -124,7 +124,7 @@ export const coursesCard = [
       },
     ],
     priceAll: "$500 All Course",
-    pricePer: "$80 per month",
+    pricePer: "E£4000 All Course",
   },
   {
     id: 7,
@@ -137,8 +137,8 @@ export const coursesCard = [
         totalTime: "20 lectures (50 hrs)",
       },
     ],
-    priceAll: "$20 All Course",
-    pricePer: "$2 per month",
+    priceAll: "$350 All Course",
+    pricePer: "E£2500 All Course",
   },
   {
     id: 8,
@@ -152,7 +152,7 @@ export const coursesCard = [
       },
     ],
     priceAll: "$200 All Course",
-    pricePer: "$40 per month",
+    pricePer: "E£1500 All Course",
   },
   {
     id: 9,
@@ -165,8 +165,8 @@ export const coursesCard = [
         totalTime: "50 lectures (50 hrs)",
       },
     ],
-    priceAll: "$20 All Course",
-    pricePer: "$3 per month",
+    priceAll: "$350 All Course",
+    pricePer: "E£3500 All Course",
   },
 ]
 export const online = [
