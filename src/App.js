@@ -23,6 +23,7 @@ const App = () => {
           <Route path="/" exact component={Home}/>
           <Route path="/code-web" exact component={Home}/>
           <Route path="https://www.fristcode.com/" exact component={Home}/>
+          <Route path="fristcode.com" exact component={Home}/>
           <Route path="/about" exact component={About}/>
           <Route  path='/courses' exact component={CoursesHome} />
           <Route  path='/team' exact component={Team} />
